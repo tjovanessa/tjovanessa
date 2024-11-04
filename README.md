@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/tjovanessa/tjovanessa/master/github-header-image.png" alt="Vanessa's GitHub banner">
 
+## 👩🏻 About me:
+
 As an enthusiastic student pursuing a dual major in Computer Science and Statistics at BINUS University, I am a highly detail-oriented individual with a determined spirit and a strong ability to adapt quickly. I am also passionate about learning new things and continually seeking opportunities to expand my knowledge. With a passion towards data, I aspire to apply my analytical skills to provide valuable insights for business decision in an impactful way.
 
 ## ✍🏻 Here's my programming language:
