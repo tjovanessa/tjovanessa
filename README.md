@@ -14,7 +14,7 @@ As an enthusiastic student pursuing a dual major in Computer Science and Statist
 
 ## 🌎 Find me around:
 
-- Available for internship opportunities, kindly check <a href="https://drive.google.com/file/d/157f86C-sSoxd0EGSHISETFEa-XErrL2z/view?usp=sharing">my resume</a> 📝
+- Looking for internship opportunities, kindly check <a href="https://drive.google.com/file/d/157f86C-sSoxd0EGSHISETFEa-XErrL2z/view?usp=sharing">my resume</a> 📝
 - Most of my projects are available at <a href="https://github.com/tjovanessa">GitHub</a> 🧩
 - Watch my latest updates on <a href="https://www.linkedin.com/in/tjovanessa">LinkedIn</a> 💼
 - Feel free to drop me an email at <a href="vanessa.tjokro08@gmail.com">vanessa.tjokro08@gmail.com</a> 📫
